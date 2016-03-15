@@ -1,6 +1,6 @@
 /*Gabe Thexton - Galvanize Pre-Challenge*/
 
-/*Function to perfomr the folloiwng task:
+/*Function to perform the following task:
 For this challenge, we are interested in finding the phone number whose digits sum to the largest number.
 Write a single function that outputs the “largest” phone number in an input array (if multiple numbers are equally large, return the last one).
 Assume that the phone numbers are strings of 10 digits separated by dashes.
